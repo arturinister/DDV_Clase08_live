@@ -1,0 +1,16 @@
+.cajaFondoImagen{
+    background-image: url("../imagenes/imagenFondo.png");
+    border-style: solid;
+    border-color: peru;
+    border-radius: 8px;
+    width: 75%;
+    margin: auto;
+    padding: 40px 20px 40px 20px;
+}
+
+p {
+    font-family: 'Bad Script', cursive;
+    text-align: center;
+    font-size: xx-large;
+    color: peru;
+}
